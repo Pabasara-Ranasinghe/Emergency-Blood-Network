@@ -1,0 +1,33 @@
+services:
+
+  backend:
+    build:
+      context: ./server
+    container_name: ebn-backend
+    ports:
+      - "5000:5000"
+    env_file:
+      - ./server/.env
+    depends_on:
+      - ai
+    restart: unless-stopped
+
+  ai:
+    build:
+      context: ./ai
+    container_name: ebn-ai
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./ai/.env
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./client
+    container_name: ebn-client
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
