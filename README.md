@@ -95,6 +95,9 @@ The system enables:
 
 ---
 
+<img width="1536" height="1024" alt="Process" src="https://github.com/user-attachments/assets/89edc38f-7d2f-4fef-942e-b7e4a7c451ac" />
+
+
 # 🤖 Artificial Intelligence & Machine Learning
 
 ## Donor Eligibility Prediction
@@ -116,6 +119,8 @@ Ranks potential donors using:
 - Donor Availability
 - Health Status
 - Location (Optional)
+
+<img width="1536" height="1024" alt="Dijkstra&#39;s algorith" src="https://github.com/user-attachments/assets/afebce38-20b7-4523-a822-a3ea5577d324" />
 
 ---
 
