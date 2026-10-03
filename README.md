@@ -348,6 +348,4 @@ This project is developed for academic and demonstration purposes.
 
 ---
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sithumini-Anuhansi.Emergency-Blood-Network&left_text=Views" />
-</div>
+
