@@ -1,6 +1,6 @@
 # 🩸 Emergency Blood Network (EBN)
 
-> A blood donation, hospital request, and AI-powered donor matching system that connects donors, hospitals, and blood banks efficiently.
+> A real-time blood donation, hospital request, and AI-powered donor matching system that connects donors, hospitals, and blood banks efficiently.
 
 ---
 
